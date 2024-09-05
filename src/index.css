@@ -1,0 +1,12 @@
+@font-face {
+    font-family: spring-font;
+    src: url('./assets/Spring-Handmade.ttf');
+}
+@font-face {
+    font-family: Neue;
+    src: url('./assets/NeueMontreal-Regular.ttf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
