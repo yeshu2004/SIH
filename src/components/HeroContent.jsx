@@ -10,7 +10,7 @@ const HeroContent = () => {
         <div className='absolute inset-0 z-10 flex justify-center items-center text-white text-4xl mt-20'>
               <div className='flex flex-col items-center gap-20'>
                 <div className='flex flex-col items-center gap-14'>
-                  <h1 className='text-[10vw] font-[spring-font]'>Thristy Feilds</h1>
+                  <h1 className='text-[10vw] font-[spring-font]'>Thirsty Feilds</h1>
                   <div></div>
                   <div className='text-xl  flex items-center gap-2 tracking-tight italic'>"<span><RiAncientGateLine /></span>Based on ground water" </div>
                 </div>
